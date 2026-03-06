@@ -99,7 +99,7 @@ Natural Language Input → Skill Auto-Activation → Content Generation
 - `/aaa-workflow` - Master orchestrator
 - `/deep-brand-intake` - Content capture
 - `/brand-discovery` - 39-question strategic interview
-- `/voice-dna` - 5-layer voice extraction
+- `/voice-dna` - 5-layer voice extraction (enhanced with transition, evidence, and proprietary language analysis)
 - `/disgust-mapper` - Negative boundary mapping
 - `/generate-topics` - Combinatorial topic generation
 - `/topic-to-matrix` - 1 topic → 19 pieces
@@ -210,5 +210,9 @@ Black Sheep Systems helps small business owners implement AI automation that act
 - Gemini 2.5 for voice synthesis
 
 ---
+
+## Changelog
+
+See [CHANGELOG.md](CHANGELOG.md) for version history and upgrade instructions.
 
 **License:** MIT - Use freely, attribution appreciated.
