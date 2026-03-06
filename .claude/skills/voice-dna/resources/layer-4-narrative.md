@@ -52,6 +52,30 @@ Metaphors: Business + sports analogies, NEVER food/cooking
 Lesson delivery: Explicit, direct application, no abstract philosophizing
 ```
 
+### 5. Evidence and Proof Patterns
+How they support claims and build credibility:
+- **Data integration:** Do they cite specific numbers? ("120K videos analyzed," "92% accuracy") How precise?
+- **Source attribution:** Do they name sources? ("according to subsub.io," "I read that...") Or keep it vague?
+- **Specificity level:** Exact numbers vs ballpark vs no numbers at all?
+- **Proof hierarchy:** What evidence types do they use most?
+  - Personal testing results (highest weight)
+  - Named third-party data/research
+  - Logical reasoning/first principles
+  - Social proof (others doing it)
+  - Authority citation (expert said...)
+- **Anti-proof patterns:** What do they refuse to cite? (unverified stats, "studies show," vague claims)
+- **Claim qualification:** Do they hedge? ("in my experience," "for me," "it depends") How often?
+
+Example output:
+```
+EVIDENCE PATTERNS:
+Specificity: High — uses exact numbers from personal testing ("I tested 4 tools over 2 weeks")
+Sources: Names tools and creators directly, links in description
+Proof hierarchy: 1) Personal testing, 2) Named data, 3) Logical reasoning
+Anti-proof: Never cites vague "studies show" or unattributed statistics
+Qualification rate: 80%+ of claims hedged with "for me" / "in my experience"
+```
+
 ## Analysis Prompt
 
 When analyzing samples, look for:
@@ -59,3 +83,4 @@ When analyzing samples, look for:
 2. How do they structure narratives?
 3. What types of comparisons do they make?
 4. How do they deliver the "so what"?
+5. How do they support claims? What evidence patterns emerge?

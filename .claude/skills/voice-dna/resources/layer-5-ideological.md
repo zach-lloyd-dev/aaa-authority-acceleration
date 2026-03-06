@@ -57,6 +57,36 @@ Contrarian: High - frequently challenges mainstream advice
 Vulnerability: Medium - shares failures but not deep personal trauma
 ```
 
+### 5. Proprietary Language and Framework Voice
+How their owned concepts, frameworks, and branded ideas appear naturally in content:
+- **Framework references:** Do they name their own systems? How often? (e.g., "my AAA Framework," "the Black Sheep approach")
+- **Natural vs forced:** Does the framework appear organically in conversation or get shoehorned in?
+- **Frequency:** Every piece? Only when relevant? Never unless directly asked?
+- **Positioning language:** How do they describe their unique approach vs competitors?
+  - "We do X differently because..."
+  - "Most people do Y, but I found..."
+  - "The [Framework Name] way is..."
+- **Branded vocabulary:** Words or phrases that are uniquely theirs:
+  - Methodology names (e.g., "Zero to Automated," "AAA Framework")
+  - Community identity markers (e.g., "Black Sheep," "the flock")
+  - Positioning phrases (e.g., "signal over noise," "going up the middle")
+- **Trust signal integration:** How do proprietary concepts build trust?
+  - Demonstrated through results, not just claimed
+  - Referenced by others (social proof)
+  - Connected to specific client/personal outcomes
+
+**Key principle:** Proprietary language should feel like natural vocabulary, not marketing. If it sounds like a pitch, it breaks authenticity.
+
+Example output:
+```
+PROPRIETARY LANGUAGE:
+Frameworks: "AAA Framework" (Authority, Automation, AI) — referenced ~30% of content, always in context of results
+Community identity: "Black Sheep" — the independent thinker who tests before trusting
+Positioning phrases: "Signal over noise" (most frequent), "going up the middle" (moderate)
+Integration style: Organic — frameworks emerge from stories/demos, never announced cold
+Trust connection: Every framework reference paired with a specific result or test
+```
+
 ## Analysis Prompt
 
 When analyzing samples, look for:
@@ -64,3 +94,4 @@ When analyzing samples, look for:
 2. How do they address the reader?
 3. Do they challenge conventional wisdom?
 4. How personally vulnerable do they get?
+5. How do proprietary frameworks and branded concepts appear in natural speech?
